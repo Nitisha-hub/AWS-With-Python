@@ -24,24 +24,20 @@ This repository contains my notes, practice code, and mini projects.
 
   ## 📚 AWS Services Learned
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/server.png" title="EC2"/>
-  <img src="https://img.icons8.com/color/48/cloud-storage.png" title="S3"/>
-  <img src="https://img.icons8.com/color/48/lambda.png" title="Lambda"/>
-  <img src="https://img.icons8.com/color/48/database.png" title="DynamoDB"/>
-  <img src="https://img.icons8.com/color/48/api-settings.png" title="API Gateway"/>
-  <img src="https://img.icons8.com/color/48/lock--v1.png" title="IAM"/>
-  <img src="https://img.icons8.com/color/48/combo-chart.png" title="CloudWatch"/>
-  <img src="https://img.icons8.com/color/48/sql.png" title="RDS"/>
-  <img src="https://img.icons8.com/color/48/event-accepted.png" title="EventBridge"/>
-  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" title="Rekognition"/>
-  <img src="https://img.icons8.com/color/48/microphone.png" title="Polly"/>
-  <img src="https://img.icons8.com/color/48/audio-wave.png" title="Transcribe"/>
-</p>
+## 📚 AWS Services Learned
 
-<p align="center">
-  EC2 • S3 • Lambda • DynamoDB • API Gateway • IAM • CloudWatch • RDS • EventBridge • Rekognition • Polly • Transcribe
-</p>
+- <img src="https://img.icons8.com/color/24/server.png"/> EC2  
+- <img src="https://img.icons8.com/color/24/cloud-storage.png"/> S3  
+- <img src="https://img.icons8.com/color/24/lambda.png"/> Lambda  
+- <img src="https://img.icons8.com/color/24/database.png"/> DynamoDB  
+- <img src="https://img.icons8.com/color/24/api-settings.png"/> API Gateway  
+- <img src="https://img.icons8.com/color/24/lock--v1.png"/> IAM  
+- <img src="https://img.icons8.com/color/24/combo-chart.png"/> CloudWatch  
+- <img src="https://img.icons8.com/color/24/sql.png"/> RDS & Aurora  
+- <img src="https://img.icons8.com/color/24/event-accepted.png"/> EventBridge  
+- <img src="https://img.icons8.com/color/24/artificial-intelligence.png"/> Rekognition  
+- <img src="https://img.icons8.com/color/24/microphone.png"/> Polly  
+- <img src="https://img.icons8.com/color/24/audio-wave.png"/> Transcribe  
 
 ---
 
