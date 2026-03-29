@@ -1,5 +1,11 @@
 # ☁️ AWS with Python Learning Journey
 
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Python](https://img.shields.io/badge/Python-Programming-blue)
+![Status](https://img.shields.io/badge/Status-Learning-green)
+![GitHub](https://img.shields.io/badge/GitHub-Active-black)
+
+
 ## 🚀 About
 
 I am currently learning AWS with Python as part of my BTech AIML journey.
