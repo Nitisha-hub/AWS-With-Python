@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F7A41D&size=25&center=true&vCenter=true&width=600&lines=Learning+AWS+with+Python;Building+Cloud+Projects;Future+Cloud+Engineer">
 </p>
 
-# ☁️ AWS with Python Learning Journey
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
 ![Python](https://img.shields.io/badge/Python-Programming-blue)
