@@ -24,18 +24,22 @@ This repository contains my notes, practice code, and mini projects.
 
 ## 📚 AWS Services Learned
 
-* Amazon EC2
-* Amazon S3
-* AWS Lambda
-* Amazon DynamoDB
-* Amazon API Gateway
-* AWS IAM
-* Amazon CloudWatch
-* Amazon RDS & Aurora
-* Amazon EventBridge
-* Amazon Rekognition
-* Amazon Polly
-* Amazon Transcribe
+<p align="center">
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS"/>
+
+  <img src="https://img.icons8.com/color/48/server.png" title="EC2"/>
+  <img src="https://img.icons8.com/color/48/cloud-storage.png" title="S3"/>
+  <img src="https://img.icons8.com/color/48/lambda.png" title="Lambda"/>
+  <img src="https://img.icons8.com/color/48/database.png" title="DynamoDB"/>
+  <img src="https://img.icons8.com/color/48/api-settings.png" title="API Gateway"/>
+  <img src="https://img.icons8.com/color/48/lock--v1.png" title="IAM"/>
+  <img src="https://img.icons8.com/color/48/combo-chart.png" title="CloudWatch"/>
+  <img src="https://img.icons8.com/color/48/sql.png" title="RDS"/>
+  <img src="https://img.icons8.com/color/48/event-accepted.png" title="EventBridge"/>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" title="Rekognition"/>
+  <img src="https://img.icons8.com/color/48/microphone.png" title="Polly"/>
+  <img src="https://img.icons8.com/color/48/audio-wave.png" title="Transcribe"/>
+</p>
 
 ---
 
