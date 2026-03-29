@@ -22,8 +22,6 @@ This repository contains my notes, practice code, and mini projects.
 
 ---
 
-  ## 📚 AWS Services Learned
-
 ## 📚 AWS Services Learned
 
 - <img src="https://img.icons8.com/color/24/server.png"/> EC2  
