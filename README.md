@@ -21,17 +21,10 @@ I am currently learning AWS with Python as part of my BTech AIML journey.
 This repository contains my notes, practice code, and mini projects.
 
 ---
-## 📚 AWS Services Learned
+
+  ## 📚 AWS Services Learned
 
 <p align="center">
-  EC2 | S3 | Lambda | DynamoDB | API Gateway | IAM | CloudWatch | RDS | EventBridge | Rekognition | Polly | Transcribe
-</p>
-
-## 📚 AWS Services Learned
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS"/>
-
   <img src="https://img.icons8.com/color/48/server.png" title="EC2"/>
   <img src="https://img.icons8.com/color/48/cloud-storage.png" title="S3"/>
   <img src="https://img.icons8.com/color/48/lambda.png" title="Lambda"/>
@@ -44,6 +37,10 @@ This repository contains my notes, practice code, and mini projects.
   <img src="https://img.icons8.com/color/48/artificial-intelligence.png" title="Rekognition"/>
   <img src="https://img.icons8.com/color/48/microphone.png" title="Polly"/>
   <img src="https://img.icons8.com/color/48/audio-wave.png" title="Transcribe"/>
+</p>
+
+<p align="center">
+  EC2 • S3 • Lambda • DynamoDB • API Gateway • IAM • CloudWatch • RDS • EventBridge • Rekognition • Polly • Transcribe
 </p>
 
 ---
