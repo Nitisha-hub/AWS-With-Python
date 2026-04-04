@@ -2,7 +2,7 @@
   
 <p align="center">
   <img src="https://img.icons8.com/color/96/amazon-web-services.png" width="100"/>
-</p>
+</p> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7A41D&size=25&center=true&vCenter=true&width=600&lines=Learning+AWS+with+Python;Building+Cloud+Projects;Future+Cloud+Engineer">
