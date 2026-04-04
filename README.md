@@ -1,5 +1,5 @@
 <h1 align="center">☁️ AWS with Python Learning Journey</h1>
-
+  
 <p align="center">
   <img src="https://img.icons8.com/color/96/amazon-web-services.png" width="100"/>
 </p>
