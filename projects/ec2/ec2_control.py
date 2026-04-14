@@ -1,6 +1,6 @@
 # EC2 Automation Script using boto3
 # Author: Nitisha Mali
-# Description: Start, stop and check EC2 instance status
+# Description: Start, stop and check EC2 instance status                      
     
 import boto3
 
