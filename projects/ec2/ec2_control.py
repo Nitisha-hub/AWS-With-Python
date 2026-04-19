@@ -4,7 +4,7 @@
     
 import boto3
 
-# Create EC2 client   
+# Create EC2 client                         
 ec2 = boto3.client('ec2')
 
 INSTANCE_ID = 'your-instance-id'  # replace with your EC2 instance ID
