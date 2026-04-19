@@ -3,7 +3,7 @@
 # Description: Start, stop and check EC2 instance status                                 
     
 import boto3
-
+                                   
 # Create EC2 client                         
 ec2 = boto3.client('ec2')
 
